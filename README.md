@@ -1,4 +1,4 @@
-- 👋 Hola soy Luis Peña, ingeniero en software.
+- 👋 Hola soy Luis Peña, ingeniero en software freelance, me gusta crear soluciones de software.
 - 👀 Estoy interesado en colabrorar en la comunidad, aportando y aprendiendo.
 - 🌱 Actualmente estoy aprendiendo laravel 
 
