@@ -1,6 +1,7 @@
-- 👋 Hola soy Luis Peña, ingeniero en software freelance, me gusta crear soluciones de software.
+- 👋 Hola soy Luis Peña, ingeniero en software abierto a proyectos freelance, me gusta crear soluciones de software.
 - 👀 Estoy interesado en colabrorar en la comunidad, aportando y aprendiendo.
-- 🌱 Actualmente estoy aprendiendo laravel 
+- 🌱 Actualmente estoy aprendiendo React JS 
+- Entusiasta del codigo abierto
 
 
 <!---
