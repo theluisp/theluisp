@@ -10,7 +10,7 @@ Soy un **ingeniero en software** con una fuerte pasión por el desarrollo de sol
 - **PHP**: Desarrollo de aplicaciones web y servicios backend.
 - **MySQL**: Gestión de bases de datos relacionales.
 - **JavaScript**: Desarrollo de aplicaciones dinámicas del lado del cliente.
-
+- **Symfony**: Backend y ORM.
   
 ## 🔥 Entusiasta del Código Abierto
 
